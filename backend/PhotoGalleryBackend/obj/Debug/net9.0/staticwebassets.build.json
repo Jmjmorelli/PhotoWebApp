@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "QwbP/JXS4Sbiwyd7ryX9uua/BwYma3N1tBSJIpYew7k=",
+  "Source": "PhotoGalleryBackend",
+  "BasePath": "_content/PhotoGalleryBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
